@@ -1,4 +1,4 @@
-#include "../tokenizer.hpp"
+#include "tokenizer.hpp"
 // You should NOT modify ANYTHING in this file.
 
 class student_t;
